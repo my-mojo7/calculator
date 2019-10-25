@@ -1,0 +1,13 @@
+html {
+    font-size: h1;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+
+*,
+*::before,
+*::after {
+    margin: 30px;
+    padding: 30px;
+    box-sizing: inherit;
+}
